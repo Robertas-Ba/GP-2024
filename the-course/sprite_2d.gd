@@ -12,7 +12,6 @@ func _ready():
 func _process(delta: float):
 	# rotate(deg_to_rad(rot_speed * delta))
 	# translate(Vector2(0, speed * delta),)
-	
 	# global_translate(Vector2(0, speed * delta))
 	
 	var s = speed
